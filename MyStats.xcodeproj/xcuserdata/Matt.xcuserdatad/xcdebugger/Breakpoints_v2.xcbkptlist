@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StatTitlesTableViewController.swift"
+            timestampString = "492361249.473713"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "statValue(_:value:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StatTitlesTableViewController.swift"
+            timestampString = "492360753.357296"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "StatTitlesTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyStats.StatTitlesTableViewController.statValue (Swift.String, value : Swift.Int) -&gt; ()"
+                  moduleName = "MyStats"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Matt/Documents/Projects/MyStats/StatTitlesTableViewController.swift"
+                  timestampString = "492360753.358677"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "protocol witness for MyStats.StatViewDelegate.statValue (Swift.String, value : Swift.Int) -&gt; () in conformance MyStats.StatTitlesTableViewController : MyStats.StatViewDelegate in MyStats"
+                  moduleName = "MyStats"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Matt/Documents/Projects/MyStats/StatTitlesTableViewController.swift"
+                  timestampString = "492360753.358839"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StatTitlesTableViewController.swift"
+            timestampString = "492360754.175769"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "StatTitlesTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyStats.StatTitlesTableViewController.selectedStatAmount.getter : Swift.ImplicitlyUnwrappedOptional&lt;Swift.String&gt;"
+                  moduleName = "MyStats"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Matt/Documents/Projects/MyStats/StatTitlesTableViewController.swift"
+                  timestampString = "492360754.179947"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyStats.StatTitlesTableViewController.selectedStatAmount.setter : Swift.ImplicitlyUnwrappedOptional&lt;Swift.String&gt;"
+                  moduleName = "MyStats"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Matt/Documents/Projects/MyStats/StatTitlesTableViewController.swift"
+                  timestampString = "492360754.180313"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyStats.StatTitlesTableViewController.init (style : __C.UITableViewStyle) -&gt; MyStats.StatTitlesTableViewController"
+                  moduleName = "MyStats"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Matt/Documents/Projects/MyStats/StatTitlesTableViewController.swift"
+                  timestampString = "492360754.180777"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "251">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyStats.StatTitlesTableViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; MyStats.StatTitlesTableViewController"
+                  moduleName = "MyStats"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Matt/Documents/Projects/MyStats/StatTitlesTableViewController.swift"
+                  timestampString = "492360754.181086"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "328">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyStats.StatTitlesTableViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;MyStats.StatTitlesTableViewController&gt;"
+                  moduleName = "MyStats"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Matt/Documents/Projects/MyStats/StatTitlesTableViewController.swift"
+                  timestampString = "492360754.181659"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "251">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StatTitlesTableViewController.swift"
+            timestampString = "492362146.261838"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "statValue(_:value:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
